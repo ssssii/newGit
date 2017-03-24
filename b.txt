@@ -1,1 +1,8 @@
 bbbjnkML
+
+
+Administrator@2016-0115-1514 MINGW64 /f/gitdemo (master)
+$  git config --global user.email "you@example.com"
+
+Administrator@2016-0115-1514 MINGW64 /f/gitdemo (master)
+$   git config --global user.name "Your Name"
